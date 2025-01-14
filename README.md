@@ -21,6 +21,11 @@ A C program that will ask the user to enter 3 whole numbers. The program will ca
 
     printf("The average of the three numbers is %.2f\n", average);
     return 0;
-
-
     }
+
+**Sample Run**
+
+    Please enter the first number: 15
+    Please enter the second number: 18
+    Please enter the third number: 20
+    The average of 15, 18, and 20 is 17.67
